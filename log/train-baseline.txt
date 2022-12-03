@@ -1,0 +1,34 @@
+process: ████████████████████|  2713 / 2713   bce loss: 0.02903   precision: 0.87425   recall: 0.97987
+epoch: 1  train loss: 0.07487
+test process: ████████████████████|  300 / 300   bce loss: 0.07266   precision: 0.89324   recall: 0.92400
+Save ...
+Save finish !!!
+process: ████████████████████|  2713 / 2713   bce loss: 0.03804   precision: 0.91975   recall: 0.93711
+epoch: 2  train loss: 0.06722
+test process: ████████████████████|  300 / 300   bce loss: 0.06680   precision: 0.89530   recall: 0.93583
+Save ...
+Save finish !!!
+process: ████████████████████|  2713 / 2713   bce loss: 0.13666   precision: 0.92029   recall: 0.84667
+epoch: 3  train loss: 0.06361
+test process: ████████████████████|  300 / 300   bce loss: 0.06580   precision: 0.90048   recall: 0.93753
+Save ...
+Save finish !!!
+process: ████████████████████|  2713 / 2713   bce loss: 0.37703   precision: 0.52000   recall: 0.40000
+epoch: 4  train loss: 0.06071
+test process: ████████████████████|  300 / 300   bce loss: 0.06370   precision: 0.90459   recall: 0.93192
+Save ...
+Save finish !!!
+process: ████████████████████|  2713 / 2713   bce loss: 0.06954   precision: 0.85093   recall: 0.97857
+epoch: 5  train loss: 0.05962
+test process: ████████████████████|  300 / 300   bce loss: 0.06158   precision: 0.90914   recall: 0.93385
+Save ...
+Save finish !!!
+process: ████████████████████|  2713 / 2713   bce loss: 0.03008   precision: 0.83815   recall: 0.98639
+epoch: 6  train loss: 0.05837
+test process: ████████████████████|  300 / 300   bce loss: 0.06201   precision: 0.90109   recall: 0.94189
+process: ████████████████████|  2713 / 2713   bce loss: 0.01267   precision: 0.96040   recall: 1.00000
+epoch: 7  train loss: 0.05606
+test process: ████████████████████|  300 / 300   bce loss: 0.05962   precision: 0.89923   recall: 0.94361
+process: ████████████████████|  2713 / 2713   bce loss: 0.09570   precision: 0.80645   recall: 0.99010
+epoch: 8  train loss: 0.05596
+test process: ████████████████████|  300 / 300   bce loss: 0.06065   precision: 0.89327   recall: 0.95099

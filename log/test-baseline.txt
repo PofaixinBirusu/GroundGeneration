@@ -1,0 +1,4 @@
+test process: ████████████████████|  300 / 300   bce loss: 0.05816   precision: 0.90962   recall: 0.93989
+test process: ████████████████████|  88 / 88   bce loss: 0.02738   precision: 0.90851   recall: 0.98018
+test process: ████████████████████|  180 / 180   bce loss: 0.07200   precision: 0.92442   recall: 0.91970
+test process: ████████████████████|  32 / 32   bce loss: 0.06493   precision: 0.82940   recall: 0.94268

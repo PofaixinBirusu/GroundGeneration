@@ -1,0 +1,8 @@
+dense slow
+test process: ████████████████████|  88 / 88   bce loss: 0.02910   precision: 0.90747   recall: 0.97542   cd: 24.02871
+dense steep
+test process: ████████████████████|  180 / 180   bce loss: 0.07746   precision: 0.93134   recall: 0.90410   cd: 31.37049
+sparse steep
+test process: ████████████████████|  32 / 32   bce loss: 0.06400   precision: 0.83036   recall: 0.94603   cd: 30.30850
+all
+test process: ████████████████████|  300 / 300   bce loss: 0.06184   precision: 0.91357   recall: 0.92949   cd: 29.11279
